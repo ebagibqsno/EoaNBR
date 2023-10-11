@@ -524,7 +524,7 @@ news_event = {
 		OR = {
 			USA = {
 				NOT = {
-					have_war_with = ENG
+					has_war_with = ENG
 				}
 			}
 			NOT = {
